@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "pn-p-graph",
+    "libraryId": "ba7432fe-d8b0-4d74-a6c2-2f511bbe983f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "PnPGraph",
+    "solutionShortDescription": "PnPGraph description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
